@@ -1,5 +1,5 @@
-## Homepage0
-[Click here](https://souraexx.github.io/covid19-tracker/)
+## Homepage
+[Click here to see the webiste](https://souraexx.github.io/covid19-tracker/)
 
 ## Available Scripts
 
